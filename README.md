@@ -1,3 +1,4 @@
+Você pode testar a aplicação neste link: (https://calculadora-danielti2014.netlify.app)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
